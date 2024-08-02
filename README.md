@@ -15,7 +15,7 @@ You can install these packages using pip. Ensure you have Python 3.6 or later.
 ## Predictive Modeling Analysis included the following: 
 
 ### Import Data
-(Add Image here of the DF)
+![](Module13_images/ImportingSpamData.PNG)
   
 ### Exploratory Analysis
 - Simply exploratory analysis was used to assess the data content and basic statistics.
