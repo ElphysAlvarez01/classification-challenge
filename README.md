@@ -71,12 +71,12 @@ print("Accuracy Score:", rf_testing_predictions)
 ```
 ## Interpretation of Results
 #### Logistic Regression
-#### Accuracy Score: 0.9278887923544744
+#### Accuracy Score: 0.92
 
 >> The accuracy score of the Logistic Regression model represents the proportion of correctly classified instances over the total number of instances in the test dataset. A higher accuracy indicates that the model is effectively capturing the relationship between the features and the target variable. However, accuracy alone may not be sufficient, especially in cases of class imbalance.
 
 #### Random Forest Classifier
-#### Accuracy Score:  0.9669852302345786
+#### Accuracy Score:  0.96
 
 >> The accuracy score of the Random Forest Classifier reflects the model's performance in classifying instances correctly. Random Forest often performs well due to its ensemble approach, which aggregates predictions from multiple decision trees to improve overall accuracy and reduce overfitting.
 
