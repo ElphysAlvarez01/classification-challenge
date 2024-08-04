@@ -3,9 +3,11 @@ Logistic Regression &amp; Random Forest Model
 
 ## Predictive Modeling with Logistic Regression and Random Forest Classifier
 
->> **Logistic Regression is a statistical method used for binary classification problems (e.g. Spam email or not Spam email, which predicts the probability of a binary outcome based on one or more predictor variables.** It shows how the outcome (yes or no) depends on other factors and calculates the chances of each outcome, making it easy to understand the results. Logistic Regression is favored for its simplicity and efficiency, especially when the relationship between variables is approximately linear.
+**Logistic Regression is a statistical method used for binary classification problems (e.g. Spam email or not Spam email, which predicts the probability of a binary outcome based on one or more predictor variables.** 
+>> It shows how the outcome (yes or no) depends on other factors and calculates the chances of each outcome, making it easy to understand the results. Logistic Regression is favored for its simplicity and efficiency, especially when the relationship between variables is approximately linear.
 
->> **Random Forest, on the other hand, is a supervised learning method that uses many decision trees to make better predictions.** Each tree gives a vote, and the most common vote becomes the final prediction. Random Forest is highly effective for capturing complex interactions and non-linear relationships within the data.
+**Random Forest, on the other hand, is a supervised learning method that uses many decision trees to make better predictions.** 
+>> Each tree gives a vote, and the most common vote becomes the final prediction. Random Forest is highly effective for capturing complex interactions and non-linear relationships within the data.
 
 >> In this project, we use both Logistic Regression and Random Forest models to predict whether an email is spam email. By leveraging these models, we aim to accurately classify emails as spam or not spam, improving email management and user experience.
 
